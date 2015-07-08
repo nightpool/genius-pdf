@@ -1,1 +1,1 @@
-web: bundle exec ruby pdb.rb -p $PORT
+web: bundle exec ruby pdf.rb -p $PORT
